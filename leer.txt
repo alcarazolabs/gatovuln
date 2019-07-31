@@ -1,0 +1,23 @@
+=============================================================================
+#Gato Vuln v.1.0
+#Acerca de:
+Gato Vuln es una aplicación web vulnerable para realizar pruebas de inyección
+sql, xss, html... descubre las partes vulnerables de Gato Vuln e intenta
+ganar acceso al servidor. Gato Vuln se a creado con la finalidad de enseñar
+y practicar pruebas de hacking en aplicaciones web. 
+
+#Instalación:
+1. Copia la carpeta gatovuln en el directorio de proyectos
+web de tu servidor web, generalmente es htdocs, www o html.
+2. Crea la base de datos MySQL "gatovuln".
+3. importa las tablas de la base de datos (archivo gatovuln.sql)
+4. Accede a la aplicación desde el navegador http://<my-dominio>/gatovuln/
+
+#Herramientas Recomendadas:
+- sqlmap
+- Burp Suite..
+#Tutorial:
+- https://www.youtube.com/channel/UCy6ttBvsjtroucqQocj3P7Q
+
+=============================================================================
+by: surflaweb
